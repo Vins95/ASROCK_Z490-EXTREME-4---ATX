@@ -16,7 +16,7 @@
 | Bluetooth             | ASUS BT400 |
 | NVMe             | Samsung 960 512 GB          
 | SSD             | Samsung 860 512 GB          
-| SSD             | Samsung QVO 870 2TB GB                  
+| SSD             | Samsung QVO 870 2TB                  
 | SmBios    10.14.x       | iMac Pro 1,1     |     
 | SmBios    10.15+       | iMac 20,2  |   
 | BootLoader       | OpenCore 0.7.0                    
