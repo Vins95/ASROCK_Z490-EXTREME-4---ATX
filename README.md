@@ -46,6 +46,25 @@
 ![infodp1](./Screenshot/DPCI1-1.png)
 ![infodp2](./Screenshot/DPCI2.png)
 
+## Bios settings
+### Enable :
+* SATA Operation : AHCI
+* XHCI Hand-Off
+* ABOVE 4G
+* XMP 2.0 Profile 1 or AUTO
+* Primary Graphics Adapter : PEG
+
+### Disable : 
+* Secure Boot
+* Intel SGX
+* Fastboot
+* CFG LOCK
+* Boot From Onboard LAN
+* CSM 
+* IGPU Multi-Monitor
+
+
+
 
 
 
