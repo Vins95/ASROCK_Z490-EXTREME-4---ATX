@@ -24,7 +24,7 @@
 | SSD             | Samsung QVO 870 2TB                  
 | SmBios    10.14.x       | iMac Pro 1,1     |     
 | SmBios    10.15+       | iMac 20,2  |   
-| BootLoader       | OpenCore 0.7.0                    
+| BootLoader       | OpenCore 0.7.1                    
 
 
 ![infomac](./Screenshot/infomac.png)
